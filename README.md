@@ -4,13 +4,15 @@
   li{
     list-style:none;
   } 
-      p{
-        font-size:60px;
-        }
+  p{
+  font-size:60px;
+  }
+
+      
 </style>
   </head> 
     
-  <p> Hola, soy "H". </p> </br>  
+  <p><h1> Hola, soy "H". </h1></p> </br>  
 Me gusta mucho la informática y la programación así como el desarrollo web. 👋 </p></br>
 
 <ul>
