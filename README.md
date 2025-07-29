@@ -1,12 +1,7 @@
 <p> Hola, soy "H". </p> </br></br></br>
 Me gusta mucho la informática y la programación así como el desarrollo web. 👋 </p></br>
 
-<a href=""><img src="C:\Users\LENOVO\OneDrive\Pictures\whatsapp.png">WhatsApp
-
-
-
-
-<img width="52" height="52" alt="whatsapp" src="https://github.com/user-attachments/assets/711daf00-c296-4c54-8dd2-5563b24106b8" />
+<img width="52" height="52" alt="whatsapp" src="https://github.com/user-attachments/assets/711daf00-c296-4c54-8dd2-5563b24106b8" />WhatsApp
 
 
 <!--
