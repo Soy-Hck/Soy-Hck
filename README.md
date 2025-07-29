@@ -5,7 +5,7 @@
     list-style:none;
   } 
       p{
-        font-size:20px;
+        font-size:60px;
         }
 </style>
   </head> 
