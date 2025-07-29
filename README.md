@@ -1,4 +1,11 @@
-## Hi there 👋
+<p> Hola, soy "H". Me gusta mucho la informática y la programación así como el desarrollo web. 👋 </p></br>
+
+<a href=""><img src="C:\Users\LENOVO\OneDrive\Pictures\whatsapp.png">
+
+
+
+
+
 
 <!--
 **Soy-Hck/Soy-Hck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
