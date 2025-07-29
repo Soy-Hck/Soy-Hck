@@ -7,10 +7,10 @@
 Aficionado a la informática y la programación así como el desarrollo web. 👋 </p>
 
 
-  <img width="32" height="32" mailto: alt="whatsapp" src="https://github.com/user-attachments/assets/711daf00-c296-4c54-8dd2-5563b24106b8" /> WhatsApp</br>
-  <img width="32" height="32" alt="portafolio" src="https://github.com/user-attachments/assets/8b589020-27b3-41c6-b4f4-378a02799982" /> Portafolio</br>
+  <img width="32" height="32" mailto: alt="whatsapp" src="https://github.com/user-attachments/assets/711daf00-c296-4c54-8dd2-5563b24106b8" /> <a href="">WhatsApp</br>
+  <img width="32" height="32" alt="portafolio" src="https://github.com/user-attachments/assets/8b589020-27b3-41c6-b4f4-378a02799982" /> <a href="">Portafolio</br>
 
-<img width="32" height="32" alt="gmail" src="https://github.com/user-attachments/assets/775fc7a5-7230-4fed-a287-d1656a2e6cb8" /> Correo
+<img width="32" height="32" alt="gmail" src="https://github.com/user-attachments/assets/775fc7a5-7230-4fed-a287-d1656a2e6cb8" /> <a href="">Correo
 
 
 </html>
