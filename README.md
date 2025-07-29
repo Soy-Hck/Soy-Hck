@@ -1,4 +1,13 @@
-<p> Hola, soy "H". </p> </br>
+<html>
+  <head>
+    <style>
+  li{
+    list-style:none;
+  }
+</style>
+  </head>
+    
+  <p> Hola, soy "H". </p> </br>
 Me gusta mucho la informática y la programación así como el desarrollo web. 👋 </p></br>
 
 <ul>
@@ -9,11 +18,8 @@ Me gusta mucho la informática y la programación así como el desarrollo web. �
 </ul>
 
 
-<style>
-  li{
-    list-style:none;
-  }
-</style>
 
 
+
+</html>
 
