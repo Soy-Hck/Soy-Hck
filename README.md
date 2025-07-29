@@ -4,7 +4,7 @@
   </head>     
       
   <center><p><h1>Hola, soy "H". </h1></p></center> 
-  <h2>Programador y Desarrollador web</h2>
+  <h3>Programador y Desarrollador web</h3>
 Aficionado a la informática y la programación así como el desarrollo web. 👋 </p>
 
 
