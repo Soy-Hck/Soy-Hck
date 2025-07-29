@@ -7,7 +7,7 @@
 </style>
   </head> 
     
-  <p> Hola, soy "H". </p> </br>
+  <p> Hola, soy "H". </p> </br> 
 Me gusta mucho la informática y la programación así como el desarrollo web. 👋 </p></br>
 
 <ul>
