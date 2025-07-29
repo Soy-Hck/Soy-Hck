@@ -1,20 +1,10 @@
 <p> Hola, soy "H". </p> </br></br></br>
 Me gusta mucho la informática y la programación así como el desarrollo web. 👋 </p></br>
 
-<img width="52" height="52" alt="whatsapp" src="https://github.com/user-attachments/assets/711daf00-c296-4c54-8dd2-5563b24106b8" />WhatsApp
+<ul>
+  <li><img width="532" height="32" alt="whatsapp" src="https://github.com/user-attachments/assets/711daf00-c296-4c54-8dd2-5563b24106b8" />WhatsApp
+</li>
+<li>B</li> 
+  <li>C</li>
+</ul>
 
-
-<!--
-**Soy-Hck/Soy-Hck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
