@@ -1,7 +1,7 @@
 <html>
   <head>
 
-  </head> 
+  </head>     
       
   <center><p><h1> Hola, soy "H". </h1></p></center>
 Aficionado a la informática y la programación así como el desarrollo web. 👋 </p>
