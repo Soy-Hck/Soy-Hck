@@ -1,4 +1,5 @@
-<p> Hola, soy "H". Me gusta mucho la informática y la programación así como el desarrollo web. 👋 </p></br>
+<p> Hola, soy "H". </p> </br></br></br>
+Me gusta mucho la informática y la programación así como el desarrollo web. 👋 </p></br>
 
 <a href=""><img src="C:\Users\LENOVO\OneDrive\Pictures\whatsapp.png">WhatsApp
 
